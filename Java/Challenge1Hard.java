@@ -10,7 +10,7 @@ the user will tell the program if the guess was correct or needs to be higher or
 The program uses a binary search for guesses and should take a maximum of 7 steps.
 */
 
-public class CS160HW {
+public class Challenge1Hard {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		System.out.println("I'm going to try and guess your number");
